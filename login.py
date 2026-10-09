@@ -1,1 +1,1 @@
-print("Esto es el login v2")
+print("Login v2")
